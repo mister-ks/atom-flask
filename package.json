@@ -1,9 +1,8 @@
 {
   "name": "atom-flask",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Add Flask snippets",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-flask:toggle"
   },
@@ -12,6 +11,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
