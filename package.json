@@ -1,13 +1,13 @@
 {
   "name": "atom-flask",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "description": "Add Flask snippets",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-flask:toggle"
   },
-  "repository": "https://github.com/atom/atom-flask",
+  "repository": "https://github.com/mister-ks/atom-flask",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
