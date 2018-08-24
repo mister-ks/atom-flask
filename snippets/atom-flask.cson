@@ -1,0 +1,4 @@
+".source.py":
+  "@app.route":
+    "prefix": "@app.route"
+    "body": "@app.route('$1')"
